@@ -1,0 +1,4 @@
+npx create-react-app card-game
+cd card-game
+npm install ethers
+npm install @mui/material @emotion/react @emotion/styled
